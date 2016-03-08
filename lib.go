@@ -3,5 +3,5 @@ package turbolib
 import "fmt"
 
 func Lib() {
-	fmt.Println("Lib 5")
+	fmt.Println("Lib 6")
 }
